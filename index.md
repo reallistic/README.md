@@ -19,6 +19,7 @@ By the end of May, I had refactored this project to `python3.6` using `sanic` an
 
 | Hobby | Closed Source | Jan 2017 - present |
 | ----- | ------ | ----- |
+
 -----
 
 **Redis, HIPAA, and AWS**
@@ -26,6 +27,7 @@ My teammates and I currently maintain a stack which consists of NodeJS, Restify,
 
 | Senior Software Engineer | Ancestry | Jan 2017 - present |
 | ----- | ------ | ----- |
+
 -----
 
 **Handling orders at scale**
@@ -33,6 +35,7 @@ On a previous team, we maintained a full-stack e-commerce site that took a varie
 
 | Software Engineer | Ancestry | Aug 2015 - Jan 2017 |
 | ----- | ------ | ----- |
+
 -----
 
 **Giving people control over their data**
@@ -43,6 +46,7 @@ Query later transformed into [Sequel](https://www.sequel.me/) which still uses t
 | Consultant | Useful Labs Inc. | Jan 2017 - Present |
 | ----- | ------ | ----- |
 | **Co-Founder/Lead Engineer** | **Useful Labs Inc.** | **Aug 2015 - Jan 2017** |
+
 -----
 
 **Notifications at web scale**
