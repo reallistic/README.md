@@ -7,6 +7,7 @@
 **Favorite Editor:** [vim](https://vim-adventures.com/)<br/>
 **Values:** Challenges, Experimentation, Deep Learning, Trendsetting, Career Building, Culture<br/>
 **Skills:** python2.7/3.6, flask, sanic, NodeJs, Restify, Express, React-Native, Javascript, React, Angular 1.x/2, MySQl, MongoDB, Redis, Docker, EC2, ECS, Terraform, Jenkins, Architecture, Problem Solving<br/>
+**Education:** Bachelor of Science Computer Science | Norfolk State University, Norfolk, VA | 2008 - 2012 | GPA 3.77/4.0
 
 ## Experiences
 **Collecting and notifying on gdax.com trade statistics**
@@ -54,4 +55,3 @@ On the first day of my first job at a startup, the CEO (my direct manager) annou
 | Software Engineer | [Yo](https://www.justyo.co/) | Dec 2014 - Aug 2015 |
 |:----- | ------ | ----- |
 | | |
-
