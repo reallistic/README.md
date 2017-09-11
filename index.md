@@ -18,7 +18,8 @@ Around December, 2016 I got into cryptocurrency trading. By early February 2017 
 By the end of May, I had refactored this project to `python3.6` using `sanic` and `asyncio`. In its [current but evolving state](https://cryptostat.herokuapp.com/products), you can signup/in and view some poorly displayed data on various pairs. Data is stored in `mysql` and I am utilizing `alembic` to maintain schema migrations. In the future, it will allow you to setup custom notifications.
 
 | Hobby | Closed Source | Jan 2017 - present |
-| ----- | ------ | ----- |
+|:----- | ------ | ----- |
+| | |
 
 ------------------------------
 
@@ -26,7 +27,8 @@ By the end of May, I had refactored this project to `python3.6` using `sanic` an
 My teammates and I currently maintain a stack which consists of NodeJS, Restify, MySQL, and Memcached. This stack powers a localized, custom built survey application. With our [migration](http://www.zdnet.com/article/genealogy-company-ancestry-migrates-entire-infrastructure-to-aws/) to AWS and commitment to Privacy, our data was instructed to follow HIPAA requirements. At its core, this meant Encryption at Rest and in Transit. I researched some solutions and led our team to initially implement `stunnel` and a custom deployed `redis` instance on `ec2` (orchestrated through `terraform`). After some trials, tribulations, and a couple group discussions, we ended up utilizing `ElastiCache` and handling (en/de)cryption at the app tier with a `kms` data key. In addition, we created a `python2.6` tool to help manage secrets. It uses `iam roles`, `ssm parameter store`, and `kms` to securely store and retrieve sensitive app runtime data.
 
 | Senior Software Engineer | Ancestry | Jan 2017 - present |
-| ----- | ------ | ----- |
+|:----- | ------ | ----- |
+| | |
 
 ------------------------------
 
@@ -34,7 +36,8 @@ My teammates and I currently maintain a stack which consists of NodeJS, Restify,
 On a previous team, we maintained a full-stack e-commerce site that took a variety of orders in a variety of languages. This site was initially architected with `angular1.x`, `python2.7`, `tornado`, `sockjs`, `celery`, and `rabbitmq`. This site only handled couriering data inputs to a backend ordering system. In addition to helping build and push a few client side features, I proposed we refactor and re-architect the application to no longer use websockets and queues. In addition, I wrestled `pika` to work with `tornado` in order to get rid of a mix of threading, polling, and in-memory cache which was used to connect `sockjs` to `celery`. Afterwards I was able to design and implement a system that used classes to define and register `rpc` action handlers as the first phase in swapping long-polled `websockets` for `http`.
 
 | Software Engineer | Ancestry | Aug 2015 - Jan 2017 |
-| ----- | ------ | ----- |
+|:----- | ------ | ----- |
+| | |
 
 ------------------------------
 
@@ -44,7 +47,7 @@ In order for people to have control, the api had to handle permissions. Initiall
 Query later transformed into [Sequel](https://www.sequel.me/) which still uses the original `react-native` and `python` backends.
 
 | Consultant | Useful Labs Inc. | Jan 2017 - Present |
-| ----- | ------ | ----- |
+|:----- | ------ | ----- |
 | **Co-Founder/Lead Engineer** | **Useful Labs Inc.** | **Aug 2015 - Jan 2017** |
 
 ------------------------------
