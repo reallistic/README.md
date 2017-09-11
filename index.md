@@ -2,15 +2,11 @@
 #### East Bay, CA ~ [Email](mailto:mrmchase08+github@gmail.com) ~ [LinkedIn](https://www.linkedin.com/in/mikechase01/) ~ [GitHub](https://github.com/reallistic) | v09.17
 
 ## About
-**Favorite Quote:** *"A man who knows something knows that he knows nothing at all" - [Erykah Badu](https://www.youtube.com/watch?v=-CPCs7vVz6s)*
-
-**Favorite Language:** [Python](https://xkcd.com/353/)
-
-**Favorite Editor:** [vim](https://vim-adventures.com/)
-
-**Values:** Challenges, Experimentation, Deep Learning, Trendsetting, Career Building, Culture
-
-**Skills:** python2.7/3.6, flask, sanic, NodeJs, Restify, Express, React-Native, Javascript, React, Angular 1.x/2, MySQl, MongoDB, Redis, Docker, EC2, ECS, Terraform, Jenkins, Architecture, Problem Solving
+**Favorite Quote:** *"A man who knows something knows that he knows nothing at all" - [Erykah Badu](https://www.youtube.com/watch?v=-CPCs7vVz6s)*<br/>
+**Favorite Language:** [Python](https://xkcd.com/353/)<br/>
+**Favorite Editor:** [vim](https://vim-adventures.com/)<br/>
+**Values:** Challenges, Experimentation, Deep Learning, Trendsetting, Career Building, Culture<br/>
+**Skills:** python2.7/3.6, flask, sanic, NodeJs, Restify, Express, React-Native, Javascript, React, Angular 1.x/2, MySQl, MongoDB, Redis, Docker, EC2, ECS, Terraform, Jenkins, Architecture, Problem Solving<br/>
 
 ## Experiences
 **Collecting and notifying on gdax.com trade statistics**
