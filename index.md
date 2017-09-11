@@ -50,3 +50,8 @@ Query later transformed into [Sequel](https://www.sequel.me/) which still uses t
 
 **Notifications at web scale**
 On the first day of my first job at a startup, the CEO (my direct manager) announced I would be working with one other engineer to finish rewriting the core api. (Prior to that I had never touched a production api in life). At the time, the api was written in `python2.7`, used [parse](http://parseplatform.org/) for data storage and push notifications, and did all of its requests (including sending notifications) on the request thread. The senior engineer had been re-writing the api in `python2.7`, `gevent` and `mongodb`. This gave us some good initial benefits and allowed us to get notification sending off of the request thread. However, together we took this a step further by implementing [`redis-queue`](http://python-rq.org/) to create a horizontally scalable distributed message queuing system. While there, I was able to [find and fix a bug](https://github.com/MongoEngine/mongoengine/pull/947) in `mongoengine` which would, in some circumstances, cause O(n^2^) comparisons.
+
+| Software Engineer | [Yo](https://www.justyo.co/) | Dec 2014 - Aug 2015 |
+|:----- | ------ | ----- |
+| | |
+
