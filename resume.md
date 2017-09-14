@@ -42,6 +42,6 @@ Technologies - NodeJS, React
 
 
 ## Education:
-Bachelor of Science Computer Science
+Bachelor of Science Computer Science<br/>
 Norfolk State University, Norfolk, VA | 2008 - 2012
 GPA 3.77/4.0
