@@ -5,9 +5,10 @@
 **Favorite Quote:** *"A man who knows something knows that he knows nothing at all" - [Erykah Badu](https://www.youtube.com/watch?v=-CPCs7vVz6s)*<br/>
 **Favorite Language:** [Python](https://xkcd.com/353/)<br/>
 **Favorite Editor:** [vim](https://vim-adventures.com/)<br/>
+**Favorite Tasks:** [Hitting the High Notes](https://www.joelonsoftware.com/2005/07/25/hitting-the-high-notes/) for backend apis and infastructure<br/>
 **Values:** Challenges, Experimentation, Deep Learning, Trendsetting, Career Building, Culture<br/>
 **Skills:** python2.7/3.6, flask, sanic, NodeJs, Restify, Express, React-Native, Javascript, React, Angular 1.x/2, MySQl, MongoDB, Redis, Docker, EC2, ECS, Terraform, Jenkins, Architecture, Problem Solving<br/>
-**Education:** Bachelor of Science Computer Science | Norfolk State University, Norfolk, VA | 2008 - 2012 | GPA 3.77/4.0
+**Education:** B.S. Computer Science | Norfolk State University, Norfolk, VA | 2008 - 2012 | GPA 3.77/4.0
 
 ## Experiences
 **Collecting and notifying on gdax.com trade statistics**
