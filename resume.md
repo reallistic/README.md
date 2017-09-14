@@ -13,7 +13,7 @@ Technologies - Python, NodeJS, MySQL, Memcached, Docker + Kubernetes, React, Ang
 - Bullet 3
 
 
-**Founding Engineer/Consultant** | [Sequel](https://www.sequel.me) | Aug 2015 - Present | San Francisco, CA
+**Founding Engineer -> Consultant** | [Sequel](https://www.sequel.me) | Aug 2015 - Present | San Francisco, CA
 
 *Our v1 product, **Query**, allowed users to share data about themselves in a controlled way. As 1 of the founding engineers, my responsibilities led me to architect and help implement a React-Native app and Python api that allows users to create ACL’s for their data. Our v2 product, **Sequel**, aims to promote a more meaningfull way of sharing ideas.*
 
