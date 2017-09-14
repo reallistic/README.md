@@ -14,12 +14,14 @@ Technologies - Python, NodeJS, MySQL, Memcached, Docker + Kubernetes, React, Ang
 
 
 **Founding Engineer/Consultant** | [Sequel](https://www.sequel.me) | Aug 2015 - Present | San Francisco, CA
-> <boilerplate>
+> Our v1 product, *Query*, allowed users to share data about themselves in a controlled way. As 1 of the founding engineers, my responsibilities led me to architect and help implement a React-Native app and Python api that allows users to create ACL’s for their data. Our v2 product, *Sequel*, aims to promote a more meaningfull way of sharing ideas.
 
 Technologies - Python, Redis, Heroku, MongoDB, React-Native, React
-- Bullet 1
-- Bullet 2
-- Bullet 3
+- Built a Python Flask api/websocket server that could be easily scaled thanks to the power of Gevent and MongoDB.
+- Built a distributed worker queue system into the api utilizing Redis-Queue and Gevent.
+- Built a React-Native IOS app that took full advantage of ES6, Flux patterns, and websockets to facilitate user features.
+- Implemented location tracking with the ability to share to other users.
+- Implemented Google Calendar integration to allow users to share their availability.
 
 
 **Software Engineer** | [Yo](https://www.justyo.co) | Aug 2014 - Dec 2014 | San Francisco, CA
