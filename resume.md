@@ -8,13 +8,13 @@
 ## Experience
 **Senior Software Engineer** | [Ancestry](https://www.ancestry.com) | Aug 2015 - Present | San Francisco, CA
 
-*Starting out as a Software Engineer, I contributed to a team tasked with improving and maintaining the E-Commerce front-end website. We built upon the Python Tornado server that helped us scale, as well as the Angular code providing the UX.
+*Starting out as a Software Engineer, I contributed to a team tasked with improving and maintaining the E-Commerce front-end website. We iterated on the Python Tornado server that helped us scale, as well as the Angular code providing the UX.
 As a Senior Software Engineer, I helped drive the development of a full stack survey application backed by MySQL, NodeJS, Memcached, and React.*
 
 Technologies - Python, NodeJS, MySQL, Memcached, Docker + Kubernetes, React, Angular 1 + 2, Terraform, AWS (ECS, EC2, KMS, and more).
 
 - Extended functionality on a C# stack serving as a proxy to allow new order types.
-- Stiched together Pika, Celery (RabbitMQ), and defunct library tornado-celery to implement async celery <==> Tornado interactions.
+- Stitched together Pika, Celery (RabbitMQ), and defunct library tornado-celery to implement async celery <==> Tornado interactions.
 - Designed and implemented localized MySQL question content system with versioning.
 - Used Terraform to ship HIPAA compliant AWS ECS deployment.
 - Utilized Jenkins for all code deployments.
@@ -23,7 +23,7 @@ Technologies - Python, NodeJS, MySQL, Memcached, Docker + Kubernetes, React, Ang
 
 **Founding Engineer -> Consultant** | [Sequel](https://www.sequel.me) | Aug 2015 - Present | San Francisco, CA
 
-*Our v1 product, **Query**, allowed users to share data about themselves in a controlled way. As 1 of the founding engineers, my responsibilities led me to architect and help implement a React-Native app and Python api that allows users to manage who had access to their data. Our v2 product, **Sequel**, aims to promote a more meaningfull way of sharing ideas.*
+*Our v1 product, **Query**, allowed users to share data about themselves in a controlled way. As 1 of the founding engineers, my responsibilities led me to architect and help implement a React-Native app and Python api that allows users to manage who had access to their data. Our v2 product, **Sequel**, aims to promote a more meaningful way of sharing ideas.*
 
 Technologies - Python, Redis, Heroku, MongoDB, React-Native, React
 - Built a Python Flask api/websocket server that could be easily scaled thanks to the power of Gevent and MongoDB.
@@ -35,7 +35,7 @@ Technologies - Python, Redis, Heroku, MongoDB, React-Native, React
 
 **Software Engineer** | [Yo](https://www.justyo.co) | Aug 2014 - Dec 2014 | San Francisco, CA
 
-*Jumped in on day 1 learning everything I could about Python flask webservers to help rewrite the core api. Two months later became the lead API engineer as well as the goto guy for all things engineering jumping in on Google Closure based web apps, Analytics/Experiments done in [PlanOut](https://facebook.github.io/planout/) and AWS RedShift and the Hadoop logging infrastructure.*
+*Jumped in on day 1 learning everything I could about Python flask webservers to help rewrite the core api. Two months later became the lead API engineer as well as the goto guy for all things engineering contributing to things like Google Closure based web apps, Analytics/Experiments done in [PlanOut](https://facebook.github.io/planout/) and AWS RedShift and the Hadoop logging infrastructure.*
 
 Technologies - Python, Redis, Heroku, MongoDB, Google Closure, AWS (SNS, Route53, S3, and more).
 - Built a distributed priority worker queue system into the api utilizing Redis-Queue and Gevent.
@@ -51,7 +51,7 @@ Technologies - Python, Redis, Heroku, MongoDB, Google Closure, AWS (SNS, Route53
 
 Technologies - NodeJS, React
 - Implemented data heavy dashboards using D3 and React.
-- Created a expandable data table using React and Flux.
+- Created an expandable data table using React and Flux.
 - Developed a documentation generator for React using Gulp.
 
 
