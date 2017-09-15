@@ -3,14 +3,18 @@
 
 
 ## Experience
-**Senior Software Engineer** | Ancestry | Aug 2015 - Present | San Francisco, CA
-> <boilerplate>
+**Senior Software Engineer** | [Ancestry](https://www.ancestry.com) | Aug 2015 - Present | San Francisco, CA
+
+*
+Starting out as a Software Engineer, I contributed to a team tasked with improving and maintaining the E-Commerce front-end website. In my role I contributed to the Python Tornado server that helped us scale, as well as the Angular 1 code providing the UX.
+As a Senior Software Engineer, I helped lead a small team whose focus was collecting as much data as possile via a Survey api and site, backed by MySQL, NodeJS, Memcached, and React.
+*
 
 Technologies - Python, NodeJS, MySQL, Memcached, Docker + Kubernetes, React, Angular 1 + 2, Terraform, AWS (ECS, EC2, KMS, and more).
 
-- Bullet 1
-- Bullet 2
-- Bullet 3
+- Extended functionality on a C# api serving as a proxy to allow new order types.
+- Dug into Pika, Celery (RabbitMQ), and defunct library tornado-celery to implement async celery <==> Tornado interactions thus reducing the memory overhead of using threads.
+- 
 
 
 **Founding Engineer -> Consultant** | [Sequel](https://www.sequel.me) | Aug 2015 - Present | San Francisco, CA
