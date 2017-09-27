@@ -3,11 +3,11 @@
 
 ## Bio
 Michael Chase was encouraged to move to California from Prince Georges County, MD by his fiance, a recruiter, and one of his good friends from college.
-Michael recognizes his humble beginnings back at his high school where he took a IT vocational course.
+Michael recognizes his humble beginnings back at his high school where he took an IT vocational course.
 From there, he went on the become a graduate from the Computer Science dept at Norfolk State University through the DNIMAS scholarship program.
 At NSU he has helped students and faculty alike break down barriers and innovate.
-In his spare time he was even a DJ at a few events in collaboration with the SGA.
-Some of his long time friends are those that he gained while tutoring and helping to motivate students in and out of the CS department.
+In his spare time, he was even a DJ at a few events in collaboration with the SGA.
+Some of his longtime friends are those that he gained while tutoring and helping to motivate students in and out of the CS department.
 Upon graduating he has helped companies big and small scale infrastructures and build new products for customers.
 He has also helped build the startup [Sequel](https://sequel.me) serving as a founding engineer.
 Whether internally or externally, Michael has valued giving back to the community since he was a kid.
@@ -28,3 +28,4 @@ View his resume [here](resume.md)
 
 ## TODO
 - [ ] Full biography
+
