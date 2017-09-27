@@ -1,5 +1,5 @@
 # Michael Chase
-#### East Bay, CA ~ [Email](mailto:mrmchase08+github@gmail.com) ~ [LinkedIn](https://www.linkedin.com/in/mikechase01/) ~ [GitHub](https://github.com/reallistic) | v09.17 | [pdf](resume.pdf) | [README.md](index.md)
+#### East Bay, CA ~ [Email](mailto:mrmchase08+github@gmail.com) ~ [LinkedIn](https://www.linkedin.com/in/mikechase01/) ~ [GitHub](https://github.com/reallistic) | v09.17<br/>[pdf](resume.pdf) | [README](index.md)
 
 ## Motivation
 *Building software is an art form. There is (almost) no greater joy than coming together with the best engineers in the best working conditions to make great software and solve some tough challenges along the way. Like most artwork, you may have an idea of what you want to create going in, but what you come out with will surprise you when you put your heart into it.*

@@ -1,5 +1,5 @@
 # Michael Chase
-#### East Bay, CA ~ [Email](mailto:mrmchase08+github@gmail.com) ~ [LinkedIn](https://www.linkedin.com/in/mikechase01/) ~ [GitHub](https://github.com/reallistic) | v09.17 | [pdf](README.pdf) | [resume](resume.md)
+#### East Bay, CA ~ [Email](mailto:mrmchase08+github@gmail.com) ~ [LinkedIn](https://www.linkedin.com/in/mikechase01/) ~ [GitHub](https://github.com/reallistic) | v09.17<br/>[pdf](README.pdf) | [resume](resume.md)
 
 ## About
 **Favorite Quote:** *"A man who knows something knows that he knows nothing at all" - [Erykah Badu](https://www.youtube.com/watch?v=-CPCs7vVz6s)*<br/>
