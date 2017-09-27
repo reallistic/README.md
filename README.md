@@ -22,6 +22,9 @@ Read more about his experiences [here](experiences.md)
 
 View his resume [here](resume.md)
 
+## Other Links
+- [/dev/color Real Talk with Michael Chase](https://blog.devcolor.org/real-talk-with-michael-chase-39c68e6743b8)
+- [Origins - Michael Chase](http://our-origins.com/post/162445314879/michael-chase-senior-software-engineer-at)
 
 ## TODO
 - [ ] Full biography
