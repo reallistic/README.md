@@ -5,11 +5,11 @@
 Michael Chase was encouraged to move to California from Prince Georges County, MD by his fiance, a recruiter, and one of his good friends from college.
 Michael recognizes his humble beginnings back at his high school where he took a IT vocational course.
 From there, he went on the become a graduate from the Computer Science dept at Norfolk State University through the DNIMAS scholarship program.
-At NSU he served as a tutor starting in his sophomore year as well as contributed to the college's research efforts through the Creative Gaming and Simulation lab.
+At NSU he has helped students and faculty alike break down barriers and innovate.
 In his spare time he was even a DJ at a few events in collaboration with the SGA.
 Some of his long time friends are those that he gained while tutoring and helping to motivate students in and out of the CS department.
-Upon graduating he worked for companies such as IBM, Accenture, and most recently Ancestry.
-He has also worked for a small startup called [Yo](https://www.justyo.co) and helped build the startup [Sequel](https://sequel.me).
+Upon graduating he has helped companies big and small scale infrastructures and build new products for customers.
+He has also helped build the startup [Sequel](https://sequel.me) serving as a founding engineer.
 Whether internally or externally, Michael has valued giving back to the community since he was a kid.
 He has contributed to the open source community, spoken to students at various venues, and is an active member of [/dev/color](https://www.devcolor.org/) where all members help each other to become industry leaders and achieve ambitious goals.
 His favorite tools/technologies are Python, React, and vim.
